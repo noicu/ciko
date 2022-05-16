@@ -6,6 +6,9 @@
   "scripts": {
     "dev": "parcel serve index.html"
   },
+  "dependencies": {
+    "ciko": "../"
+  },
   "devDependencies": {
     "parcel": "^2.0.1"
   }

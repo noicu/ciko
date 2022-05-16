@@ -1,9 +1,9 @@
-import greet from '../.';
+import ciko from "ciko";
 
-const hello = greet();
-
-console.log(hello);
-
-if (module.hot) {
-  module.hot.accept();
-}
+ciko()
+  .loop()
+  .delay(2)
+  .on(() => {})
+  .delay(2)
+  .on(() => {})
+  .run();

@@ -1,8 +1,8 @@
 {
-  "name": "ts-package-template",
-  "version": "1.0.0",
-  "description": "TypeScript NPM Package Template",
-  "author": "Sidharth Rathi",
+  "name": "ciko",
+  "version": "0.0.1",
+  "description": "Lightweight process control",
+  "author": "Tovi",
   "license": "MIT",
   "source": "./src/index.ts",
   "unpkg": "dist/index.umd.js",
