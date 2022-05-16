@@ -1,0 +1,9 @@
+src
+example
+.gitignore
+webpack.*
+README.md
+LICENSE
+,editorconfig
+jest.config.js
+tsconfig.json
